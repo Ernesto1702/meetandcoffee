@@ -1,0 +1,43 @@
+<style>
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.barra_navegacion{
+background-color:black;
+}
+ul{
+  height: 60px;
+}
+ul li{
+display: inline-block;
+padding: 20px;
+}
+ul li a{
+text-decoration: none;
+color:white;
+
+}
+
+.footer{
+background-color:black;
+text-align: center;
+font-size: 32px;
+}
+
+#texto_pie_pagina{
+    font-size: 12px;
+    color: white;
+}
+.logo {
+    width: 32px;
+    fill: white;
+}
+.emporio{
+display: block;
+margin:auto;
+
+}
+</style>
+
